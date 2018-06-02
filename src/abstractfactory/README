@@ -1,0 +1,5 @@
+Возвращаем одну из фабрик: для ключа MALE - MaleFactory, для FEMALE - FemaleFactory.
+Это паттерн Abstract Factory. В коде тебе не важно, какая фабрика используется.
+
+Освоен паттерн Factory Method.
+Освоен паттерн Abstract Factory.
